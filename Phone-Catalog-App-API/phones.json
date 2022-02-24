@@ -1,0 +1,52 @@
+{
+    "smartphones": [
+        {
+            "id": 100,
+            "title": "iPhone X",
+            "description": "The iPhone X has a 5.85 inch (marketed as 5.8 inch) OLED color-accurate screen that supports DCI-P3 wide color gamut, sRGB, and high dynamic range, and has a contrast ratio of 1,000,000:1.",
+            "price": 800,
+            "image": "https://www.backmarket.es/cdn-cgi/image/format=auto,quality=75,width=640/https://d1eh9yux7w8iql.cloudfront.net/product_images/1529496172.28.jpg",
+            "color": "Black"
+        },
+        {
+            "id": 200,
+            "title": "iPhone 7",
+            "description": "The iPhone 7 features a 28mm 12-megapixel camera with optical image stabilization, a wider f/1.8 aperture 6-element lens, wide color capture, and a revamped Apple image signal processor, all of which result in brighter, sharper, more detailed photos, even in low-light conditions.",
+            "price": 250,
+            "image": "https://www.backmarket.com/cdn-cgi/image/format=auto,quality=75,width=640/https://d28i4xct2kl5lp.cloudfront.net/product_images/1582625624.8777223.jpg",
+            "color": "Black"
+        },
+        {
+            "id": 300,
+            "title": "Samsung Galaxy S7",
+            "description": "The Galaxy S7 is an evolution of the prior year's model, with upgraded hardware, design refinements, and the restoration of features removed from the Galaxy S6, such as IP certification for water and dust resistance, as well as expandable storage with a MicroSD card. Succeeding the S6 and S6 Edge+, respectively, the S7 is produced in a standard model with a display size of 5.1-inch (130 mm)",
+            "price": 235,
+            "image": "https://www.backmarket.es/cdn-cgi/image/format=auto,quality=75,width=640/https://d1eh9yux7w8iql.cloudfront.net/product_images/1529495911.34.jpg",
+            "color": "Black"
+        },
+        {
+            "id": 400,
+            "title": "Samsung Galaxy S21",
+            "description": "The Samsung Galaxy S21 specs are top-notch including a Snapdragon 888 chipset, 5G capability, 8GB RAM coupled with 128/256GB storage, and a 4000mAh battery. The phone sports a 6.2-inch Dynamic AMOLED display with an adaptive 120Hz refresh rate. In the camera department, a triple-sensor setup is presented.",
+            "price": 1200,
+            "image": "https://www.backmarket.es/cdn-cgi/image/format=auto,quality=75,width=640/https://d1eh9yux7w8iql.cloudfront.net/product_images/None_bd6a674d-ec6c-4599-9ec0-283065d915dc.jpg",
+            "color": "Black"
+        },
+        {
+            "id": 500,
+            "title": "Huawei P40 Pro",
+            "description": "Huawei P40 Pro is officially released in March 2020. The smartphone is pack with 8 GB RAM and 128 GB/256GB/512GB internal storage options. The smartphone is powered by the HiSilicon Kirin 990 5G Octa-core processor. The smartphone comes with a 6.58 inches OLED capacitive touchscreen and 1200 x 2640 pixels resolution.",
+            "price": 1000,
+            "image": "https://www.backmarket.es/cdn-cgi/image/format=auto,quality=75,width=640/https://d1eh9yux7w8iql.cloudfront.net/product_images/378769_163c025f-e7b8-4f97-967b-f9d31fd729af.jpg",
+            "color": "Silver"
+        },
+        {
+            "id": 600,
+            "title": "Huawei Mate 20",
+            "description": "The phone comes with a 6.53-inch touchscreen display with a resolution of 1080x2244 pixels and an aspect ratio of 18.7:9. ... The Huawei Mate 20 runs EMUI 9.0 is based on Android 9.0 and packs 128GB of inbuilt storage that can be expanded via Nano Memory Card card (up to 256GB).",
+            "price": 1100,
+            "image": "https://d1eh9yux7w8iql.cloudfront.net/product_images/226519_856e05a2-652d-4723-9bdb-2187e4d4f548.jpg",
+            "color": "Blue"
+        }
+    ]
+}
